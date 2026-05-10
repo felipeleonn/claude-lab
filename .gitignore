@@ -1,0 +1,19 @@
+# Virtual environment
+bin/
+lib/
+include/
+etc/
+share/
+pyvenv.cfg
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
