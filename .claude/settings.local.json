@@ -3,7 +3,17 @@
     "allow": [
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"Initial commit: Claude API experiments and MCP server projects:*)"
+      "Bash(git commit -m \"Initial commit: Claude API experiments and MCP server projects:*)",
+      "Bash(gh repo:*)",
+      "Bash(pip install:*)",
+      "Bash(uv --version)",
+      "Bash(pip3 install:*)",
+      "Bash(curl -LsSf https://astral.sh/uv/install.sh)",
+      "Bash(sh)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "Bash(ls *.py)",
+      "Bash(uv pip:*)",
+      "Bash(uv run:*)"
     ]
   }
 }
